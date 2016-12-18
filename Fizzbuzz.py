@@ -1,3 +1,4 @@
+#das mit dem Code fuer die Sonderzeichen funktioniert bei mir nicht, hab beides versucht (Code, u)
 guess = int(raw_input("Select a number between 1 and 100:"))
 
 if guess > 100:
